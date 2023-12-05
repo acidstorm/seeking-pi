@@ -64,7 +64,7 @@ To crawl BP, make a GET request to `/products/bp`
 
 ## Search
 ```bash
-# node recall.js <directory> <table>
+# node recall.js 'search string'
 ```
 or make a POST request to `/search`
 
