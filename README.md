@@ -1,6 +1,5 @@
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 Natural language search plus comparisons
 
 ## Installation
@@ -65,7 +64,7 @@ To crawl BP, make a GET request to `/products/bp`
 
 ## Search
 ```bash
-# node recall.js 'search string'
+# node recall.js 'makeup kits for darker skin'
 ```
 or make a POST request to `/search`
 
